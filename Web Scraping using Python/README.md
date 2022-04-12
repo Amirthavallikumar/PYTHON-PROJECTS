@@ -1,6 +1,7 @@
-# Web Scraping Project
+# Web Scraping Project - Data Extraction
 
 Python matplotlib
 python beautiful soup
+python requests
 
-Web sscraping project to gather data from website and present visualization using Python
+Web scraping project to gather data from website and present visualization using Python
