@@ -1,10 +1,12 @@
-# Calculator-with-testing-trial
-A very basic calculator with little testing using Unit testing in Python
+# unit testing
+A very basic calculator code is tested using Unit test.
+
+Testing is performed to follow and manage CI/CD pipelines.
+For better and clean code.
 
 
-This is a very basic calculator project in Python
 
 Working on implementing Unit testing with some functions
 which worked well so far,
-working on it to implement further testing.
-also, working on try implementing with Py test.
+working on it to implement further  effective testing.
+
